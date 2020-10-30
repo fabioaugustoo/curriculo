@@ -17,7 +17,7 @@ Previsão de conclusão em 2021
 * (2018 -  Atual) <br>
 **Protocolo CCS/CJ/UENP - Universidade Estadual do Norte do Paraná** -
 Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
-  * Colaborar na admistração de documentos dos professores, coordenadores e diretor.
+  * Colaborar na administração de documentos dos professores, coordenadores e diretor.
   * Ajudar funcionários e alunos em qualquer problema relacionado à informática.
 
 ## Conhecimentos
