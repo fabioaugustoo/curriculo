@@ -99,7 +99,7 @@ Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
 
 ## Eventos como Participante
 * XXV Workshop de Informática nas Escolas (WIE) (CBIE 2019 | [Certificado](certificados/cbie-2019.pdf))
-* XIV Semana de Tecnologia (Fatec Ourinhos | [Certificado](XIV-semana-de-tecnologia-fatec.pdf))
+* XIV Semana de Tecnologia (Fatec Ourinhos | [Certificado](certificados/XIV-semana-de-tecnologia-fatec.pdf))
 * XI GameFest (Fatec Ourinhos | [Certificado](certificados/XI-gamefest-fatec.pdf))
 * 2ª Fatec Game Jam (Fatec Ourinhos | [Certificado](certificados/2ª-fatec-game-jam-fatec.pdf))
 
