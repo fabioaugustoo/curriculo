@@ -24,6 +24,8 @@ Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
 
 ### Gerais
 * Lógica de Programação.
+* Rede de Computadores.
+* Hardware de Computação.
 * Inglês suficiente para ler e entender.
 
 ### Sistemas Operacionais
