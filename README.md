@@ -14,7 +14,7 @@ Previsão de conclusão em 2021
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-jogos-digitais)
 
 ## Experiência Profissional
-* (2018 -  Atual) <br>
+* (2019 -  Atual) <br>
 **Protocolo CCS/CJ/UENP - Universidade Estadual do Norte do Paraná** -
 Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
   * Colaborar na administração de documentos dos professores, coordenadores e diretor.
