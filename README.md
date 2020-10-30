@@ -5,7 +5,7 @@ Desenvolvedor de Jogos / Front-end e Back-end.
 :iphone:   (43) 99960 - 3266 <br>
 :envelope:  fabio.augustodn@gmail.com
 
-Meu nome é Fabio Augusto, sou Desenvolvedor de Jogos apaixonado por games e tecnologia, com grande interesse em Unity, C# e Javascript. Adoro desenvolver software, criar projetos, amo jogos indies, estudo audiovisual, segurança da informação e hacking como hobbie.
+Meu nome é Fabio Augusto, sou Desenvolvedor de Jogos apaixonado por games e tecnologia. Tenho grande interesse em Unity, C# e Javascript. Adoro desenvolver software e criar projetos. Amo jogos indies e RPG's. Estudo audiovisual, segurança da informação e hacking como hobbie.
 
 ## Formação
 Graduando na Faculdade de Tecnologia de Ourinhos - Jogos Digitais <br>
