@@ -2,7 +2,7 @@
 Desenvolvedor de Jogos / Front-end e Back-end.
 
 :house:    Jacarezinho/PR <br>
-:iphone:   (43) 99960 - 3200 <br>
+:iphone:   (43) 99960 - 3266 <br>
 :envelope:  fabio.augustodn@gmail.com
 
 Meu nome é Fabio Augusto, sou Desenvolvedor de Jogos apaixonado por games e tecnologia, com grande interesse em Unity, C# e Javascript. Adoro desenvolver software, criar projetos, amo jogos indies, e estudo audiovisual como hobbie.
