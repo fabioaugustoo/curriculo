@@ -31,10 +31,10 @@
 | Programação Orientada a Objetos                                             | 3 | :heavy_check_mark: |
 | Inglês III                                                                  | 3 | :heavy_check_mark: |
 | Ficção Interativa                                                           | 3 | :heavy_check_mark: |
-| Estatística Aplicada                                                        | 3 | :heavy_plus_sign: |
+| Estatística Aplicada                                                        | 3 | :heavy_check_mark: |
 | Matemática Aplicada aos Jogos Digitais                                      | 3 | :heavy_check_mark: |
 | Física Aplicada aos Jogos Digitais                                          | 4 | :heavy_check_mark: |
-| Engenharia de Software em Jogos Digitais II                                 | 4 | :heavy_minus_sign: |
+| Engenharia de Software em Jogos Digitais II                                 | 4 | :heavy_plus_sign: |
 | Programação Avançada                                                        | 4 | :heavy_check_mark: |
 | Laboratório de Programação                                                  | 4 | :heavy_check_mark: |
 | Ferramentas de Desenvolvimento para Web                                     | 4 | :heavy_check_mark: |
@@ -42,20 +42,20 @@
 | Roteirização para Jogos Digitais                                            | 4 | :heavy_check_mark: |
 | Gestão Empresarial em Tecnologia da Informação                              | 5 | :heavy_check_mark: |
 | Interação Humano Computador em Jogos Digitais                               | 5 | :heavy_check_mark: |
-| Animação e Som em Jogos Digitais                                            | 5 | :heavy_plus_sign: |
-| Comportamento e Cognição em Jogos Digitais                                  | 5 | :heavy_plus_sign: |
+| Animação e Som em Jogos Digitais                                            | 5 | :heavy_check_mark: |
+| Comportamento e Cognição em Jogos Digitais                                  | 5 | :heavy_check_mark: |
 | Computação Gráfica em Jogos Digitais                                        | 5 | :heavy_check_mark: |
-| Jogos Digitais para Web                                                     | 5 | :heavy_plus_sign: |
-| Inglês V                                                                    | 5 | :heavy_plus_sign: |
-| Trabalho de Graduação I                                                     | 5 | :heavy_plus_sign: |
-| Projeto de Trabalho de Graduação I                                          | 5 | :heavy_plus_sign: |
-| Empreendedorismo                                                            | 6 | :heavy_plus_sign: |
-| Direito e Ética Profissional na Sociedade da Informação                     | 6 | :heavy_minus_sign: |
+| Jogos Digitais para Web                                                     | 5 | :heavy_check_mark: |
+| Inglês V                                                                    | 5 | :heavy_check_mark: |
+| Trabalho de Graduação I                                                     | 5 | :heavy_check_mark: |
+| Projeto de Trabalho de Graduação I                                          | 5 | :heavy_check_mark: |
+| Empreendedorismo                                                            | 6 | :heavy_check_mark: |
+| Direito e Ética Profissional na Sociedade da Informação                     | 6 | :heavy_plus_sign: |
 | Estágio Curricular Supervisionado                                           | 6 | :heavy_check_mark: |
-| Jogos Digitais para Dispositivos Móveis                                     | 6 | :heavy_plus_sign: |
-| Jogos Digitais para Consoles                                                | 6 | :heavy_minus_sign: |
-| Inteligência Artificial em Jogos Digitais                                   | 6 | :heavy_minus_sign: |
-| Estudos Avançados em Jogos Digitais                                         | 6 | :heavy_minus_sign: |
-| Inglês VI                                                                   | 6 | :heavy_minus_sign: |
-| Projeto de Trabalho de Graduação II                                         | 6 | :heavy_minus_sign: |
-| Trabalho de Graduação II                                                    | 6 | :heavy_minus_sign: |
+| Jogos Digitais para Dispositivos Móveis                                     | 6 | :heavy_check_mark: |
+| Jogos Digitais para Consoles                                                | 6 | :heavy_plus_sign: |
+| Inteligência Artificial em Jogos Digitais                                   | 6 | :heavy_plus_sign: |
+| Estudos Avançados em Jogos Digitais                                         | 6 | :heavy_plus_sign: |
+| Inglês VI                                                                   | 6 | :heavy_plus_sign: |
+| Projeto de Trabalho de Graduação II                                         | 6 | :heavy_plus_sign: |
+| Trabalho de Graduação II                                                    | 6 | :heavy_plus_sign: |
