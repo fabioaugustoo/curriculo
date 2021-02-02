@@ -107,7 +107,7 @@ Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
 
 ## Redes Sociais
 *  [Facebook](https://www.facebook.com/fabio1x)
-*  [Instagram](https://www.instagram.com/fabio1x)
+*  [Instagram](https://www.instagram.com/fabio.nicoleti)
 *  [Twitter](https://twitter.com/playlok)
 *  [Linkedin](https://www.linkedin.com/in/fabionicoleti/)
 *  [Twitch](https://www.twitch.tv/playlok)
