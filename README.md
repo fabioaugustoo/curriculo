@@ -86,10 +86,11 @@ Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
 * GitLab.
 
 ## Cursos Completos
-* Designer e Web Designer (Onbyte | [Certificado](certificados/designer-e-web-designer.pdf))
-* Lógica de Programação e Algoritmo (Curso em Vídeo. Gustavo Guanabara | [Certificado](certificados/algoritmo-curso-em-video.pdf))
-* O Estado e o Estágio: Fique por Dentro (Escola de Gestão do Paraná | [Certificado](certificados/o-estado-e-o-estagio.pdf))
-* Microsoft Access 2007: Básico (Fundação Bradesco | [Certificado](certificados/access-2007-basico.pdf))
+* Designer e Web Designer [288 horas] (Onbyte | [Certificado](certificados/designer-e-web-designer.pdf))
+* Lógica de Programação e Algoritmo [40 horas] (Curso em Vídeo. Gustavo Guanabara | [Certificado](certificados/algoritmo-curso-em-video.pdf))
+* Hardware [20 horas] (Curso em Vídeo. Gustavo Guanabara | [Certificado](certificados/hardware-curso-em-video.pdf))
+* O Estado e o Estágio: Fique por Dentro [24 horas] (Escola de Gestão do Paraná | [Certificado](certificados/o-estado-e-o-estagio.pdf))
+* Microsoft Access 2007: Básico [37 horas] (Fundação Bradesco | [Certificado](certificados/access-2007-basico.pdf))
 
 ## Minicursos Completos
 * Criação de Áudio para Games (Fatec Ourinhos | [Certificado](certificados/criacao-de-audio-para-games-fatec.pdf))
