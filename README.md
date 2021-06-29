@@ -9,7 +9,7 @@ Meu nome é Fabio Augusto, sou Desenvolvedor de Jogos apaixonado por games e tec
 
 ## Formação
 Graduando na Faculdade de Tecnologia de Ourinhos - Jogos Digitais <br>
-Previsão de conclusão em 2021
+Início em Agosto de 2018 - Concluído em Julho de 2021
 
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-jogos-digitais)
 
