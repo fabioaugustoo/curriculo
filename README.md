@@ -2,16 +2,17 @@
 Desenvolvedor de Jogos / Front-end e Back-end.
 
 :house:    Jacarezinho/PR <br>
-:iphone:   (43) 99960 - 3266 <br>
 :envelope:  fabio.augustodn@gmail.com
 
 Meu nome é Fabio Augusto, sou Desenvolvedor de Jogos apaixonado por games e tecnologia. Tenho grande interesse em Unity, C# e Javascript. Adoro desenvolver software e criar projetos. Amo jogos indies e RPG's. Estudo audiovisual, segurança da informação e hacking como hobbie. Streamer e moderador de canais da Twitch nas horas vagas.
 
 ## Formação
-Graduando na Faculdade de Tecnologia de Ourinhos - Jogos Digitais <br>
+Graduado na Faculdade de Tecnologia de Ourinhos - Jogos Digitais <br>
 Início em Agosto de 2018 - Concluído em Julho de 2021
 
 [_Clique aqui para ver as disciplinas do curso._](DISCIPLINAS.md#tecnólogo-em-jogos-digitais)
+
+[_Clique aqui para visualisar o certificado de conclusão de curso._](certificados/jogos-digitais-conclusao-de-curso.pdf))
 
 ## Experiência Profissional
 * (Março de 2019 - Março de 2021) <br>
@@ -19,6 +20,11 @@ Início em Agosto de 2018 - Concluído em Julho de 2021
 Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
   * Colaborar na administração de documentos dos professores, coordenadores e diretor.
   * Ajudar funcionários e alunos em qualquer problema relacionado à informática.
+
+* (Julho de 2021 - Atualmente) <br>
+**Técnico de Suporte e Manutenção de Internet - NickNetWork Internet Fibra Óptica**
+  * Realizar chamados de verificações de internet nos clientes, visando resolver problemas relacionados a conexão de internet no local.
+  * Verificação e manutenção de rede em geral.
 
 ## Conhecimentos
 
@@ -86,6 +92,7 @@ Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
 * GitLab.
 
 ## Cursos Completos
+* Curso Superior em Tecnologia em Jogos Digitais [Certificado](certificados/jogos-digitais-conclusao-de-curso.pdf))
 * Designer e Web Designer [288 horas] (Onbyte | [Certificado](certificados/designer-e-web-designer.pdf))
 * Lógica de Programação e Algoritmo [40 horas] (Curso em Vídeo. Gustavo Guanabara | [Certificado](certificados/algoritmo-curso-em-video.pdf))
 * Hardware [20 horas] (Curso em Vídeo. Gustavo Guanabara | [Certificado](certificados/hardware-curso-em-video.pdf))
