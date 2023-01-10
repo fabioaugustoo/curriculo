@@ -114,10 +114,10 @@ Estagiário no Protocolo da Secretaria do Centro de Ciências da Saúde.
 * 2ª Fatec Game Jam (Fatec Ourinhos | [Certificado](certificados/2ª-fatec-game-jam-fatec.pdf))
 
 ## Redes Sociais
-*  [Facebook](https://www.facebook.com/fabio1x)
-*  [Instagram](https://www.instagram.com/fabio.nicoleti)
-*  [Twitter](https://twitter.com/playlok)
-*  [Linkedin](https://www.linkedin.com/in/fabionicoleti/)
+*  [Facebook](https://www.facebook.com/fabioaugustodn)
+*  [Instagram](https://www.instagram.com/fabioaugusto.1)
+*  [Twitter](https://twitter.com/fabio_augusto_)
+*  [Linkedin](https://www.linkedin.com/in/fabioaugusto1)
 *  [Twitch](https://www.twitch.tv/playlok)
 
 <br><br>
